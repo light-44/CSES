@@ -8,7 +8,7 @@ Welcome to the CSES Solutions repository! This repository contains solutions to 
 
 The CSES Problem Set is a collection of algorithmic problems that are widely used for competitive programming practice. 
 <br>
-Here, I will share my solutions to these problems, written in various C++ languages.
+Here, I will share my solutions to these problems, written in C++ languages.
 
 ## Structure
 
